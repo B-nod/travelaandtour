@@ -38,7 +38,7 @@ export default function Footer() {
 const FooterContainer = styled.footer`
   display: flex;
   justify-content: space-evenly;
-  background-color: #d0d8ff;
+  background-color: #d4e6f1;
   border-radius: 0.5rem;
   padding: 2.5rem;
 
